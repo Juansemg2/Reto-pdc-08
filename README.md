@@ -16,3 +16,5 @@ Este repositorio contiene la solución al Reto 8
 *6. Perfil de stack Linkedin*
 Perfil personal creado hace meses pero sin uso.
 ![image](https://github.com/user-attachments/assets/fe7d9ce3-5e4e-4133-bb9f-5cbb385a97a7)
+
+Juan Sebastian Martinez Garcia
